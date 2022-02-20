@@ -1,3 +1,3 @@
-# Fronted website for BCV Currencies
+# bcvcurs RESTful API website
 
-This repo contains the [frontend](https://adrianolmedo.github.io/api-bcvcurs/) for the RESTful API https://api-bcvcurs.herokuapp.com/v1 of the repository [bcvcurs](https://api-bcvcurs.herokuapp.com/v1).
+This repo only contains files for the website https://adrianolmedo.github.io/api-bcvcurs/ of the RESTful API https://api-bcvcurs.herokuapp.com/v1 which its official source code is hosted in the repository [bcvcurs](https://api-bcvcurs.herokuapp.com/v1).
